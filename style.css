@@ -1,0 +1,49 @@
+.body-class{
+    background-color: #3b3a30
+}
+.header-class{
+    color: #b2c2bf;
+    background-color: #302e2e;
+}
+.nav-class{
+    background-color: #b2c2bf;
+    color: #eaece5;
+    padding: 0%;
+    text-decoration: none;
+}
+.nav-link-class{
+    text-decoration: none;
+    font-weight: bold;
+    color:#55584d;
+    display:inline
+}
+.section-title-class{
+    color: #b2c2bf;
+}
+.text-class{
+    color: #eaece5;
+}
+
+.form-class{
+    color: #b2c2bf;
+    
+}
+.image-class{
+    border-style: solid;
+    border-color: #b2c2bf;
+    border-width: 5px;
+}
+
+.footer-class{
+    background-color:#302e2e;
+}
+
+.faq-class{
+    color:#aaae9f;
+}
+.cite-class{
+    color:#eaece5
+}
+.button-class{
+    color:#556035
+}
